@@ -11,6 +11,7 @@ Some Keys are also binded with them like Alt+G works as the guess button in gui.
 <h4> 2. After Playing 3 Rounds </h4>
 <img src="https://user-images.githubusercontent.com/87264935/173214574-c1d8d3f0-fb5e-4fa1-86e1-a31ffd27605f.png" title="After Winning" alt="After Winning The game window" height="500" >
 <br />
+
 ## Animation of the Game
 <img src="https://user-images.githubusercontent.com/87264935/173564619-4a859dab-ca43-4966-9d5b-806144a8685d.gif" title="Animated Gif" alt="Animated Output of the Game">
 
